@@ -1,0 +1,33 @@
+:root {
+  --primary-color: #0d6ffa;
+  --accent-color: #49ce95;
+  --danger-color: #ec3582;
+  --fore-color: rgba(0, 0, 0, 0.65);
+  --main-cast-shadow: 0px 3px 12px rgba(0, 0, 0, 0.08),
+    0px 3px 6px rgba(0, 0, 0, 0.12);
+}
+
+.button {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 56px;
+  height: 56px;
+  bottom: 38px;
+  margin: auto;
+  left: 0;
+  right: 0;
+  color: #ffffff;
+  background-color: #000000;
+  box-shadow: var(--main-cast-shadow);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.button:hover {
+  bottom: 38px;
+  width: 60px;
+  height: 60px;
+  box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.08), 0px 6px 24px rgba(0, 0, 0, 0.12);
+}
