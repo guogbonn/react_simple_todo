@@ -6,17 +6,27 @@ Functionality: CRUD, React-Spring Animation, React Router
 </h3>
 <br/>
 <h3> In App Images </h3>
- <h2 align="center"> Task Board </h2>
+ <h2 align="center"> Landing Page </h2>
+<p align="center">
+  <img src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/HomePage.JPG?raw=true" data-canonical-src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/HomePage.JPG?raw=true" width="300" height="400" />
+</p>
+<h2 align="center">Task List Page (No Tasks) </h2>
+<p  align="center">
+  <img src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/landing.JPG?raw=true" data-canonical-src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/landing.JPG?raw=true" width="300" height="400" />
+</p>
+ <h2 align="center"> Task List Page </h2>
 <p align="center">
   <img src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/landing%20with%20tasks.JPG?raw=true" data-canonical-src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/landing%20with%20tasks.JPG?raw=true" width="300" height="400" />
 </p>
 
+<h2 align="center">Task Detail Page </h2>
+<p  align="center">
+  <img src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/TaskDetailPage.JPG?raw=true" data-canonical-src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/TaskDetailPage.JPG?raw=true" width="300" height="400" />
+</p>
+
 <br/>
 
-<h2 align="center">Task Board No Tasks </h2>
-<p  align="center">
-  <img src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/landing.JPG?raw=true" data-canonical-src="https://github.com/guogbonn/react_simple_todo/blob/main/projectPics/landing.JPG?raw=true" width="300" height="400" />
-</p>
+
   
 <br/>
 
