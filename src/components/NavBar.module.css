@@ -1,0 +1,24 @@
+nav {
+  background-color: black;
+  height: 9vh;
+  display: flex;
+  align-items: center;
+  padding-left: 10vw;
+  padding-right: 3vw;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
+}
+.text {
+  width: 100vw;
+  list-style: none;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text a,
+.text a:hover,
+.text a:focus,
+.text a:active {
+  text-decoration: none;
+  color: inherit;
+}
