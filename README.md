@@ -2,7 +2,7 @@
 <h3>Purpose: A simple project to practice React Conepcepts.</h3>
 <h3>Todo App</h3>
 <h3>
-Functionality: CRUD, React-Spring Animation
+Functionality: CRUD, React-Spring Animation, React Router
 </h3>
 <br/>
 <h3> In App Images </h3>
@@ -25,5 +25,6 @@ Functionality: CRUD, React-Spring Animation
   <li>react-spring (Animation Library)</li>
   <li>react</li>
   <li>react-dom</li>
+ <li>react-router-dom</li>
   <li>axios</li>
 </ul>
